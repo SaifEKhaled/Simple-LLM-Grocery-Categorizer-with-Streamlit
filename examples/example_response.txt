@@ -1,0 +1,23 @@
+Produce:
+- Apples
+- Spinach
+
+Dairy:
+- Cheddar Cheese
+- Eggs
+- Milk
+
+Meat:
+- Chicken Breast
+
+Bakery:
+- Bread
+
+Beverages:
+- Orange Juice
+
+Snacks:
+- Potato Chips
+
+Household:
+- Toilet Paper

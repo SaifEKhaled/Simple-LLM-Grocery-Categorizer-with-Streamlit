@@ -1,0 +1,22 @@
+You are an assistant that categorizes and sorts grocery items.
+
+Language: English  
+Output style: plain  
+Tips: No tips required.
+
+Here is a list of grocery items:
+milk
+bread
+eggs
+spinach
+chicken breast
+potato chips
+orange juice
+cheddar cheese
+apples
+toilet paper
+
+Please:
+1. Categorize these items into categories such as Produce, Dairy, Meat, Bakery, Beverages, Snacks, etc.
+2. Sort items in each category alphabetically.
+3. Format output clearly.
